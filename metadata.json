@@ -1,0 +1,6 @@
+{
+  "name": "Local SEO & Title Scorecard Inspector",
+  "description": "Local SEO & Title Scorecard Inspector for local business owners to analyze website titles, get instant scorecards, optimized title recommendations, and local search visibility metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
